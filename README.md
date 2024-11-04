@@ -132,3 +132,4 @@ in the parent component.
 6. Use an `onClick` event listener
 
 [react-devtools-props]: https://appacademy-open-assets.s3.us-west-1.amazonaws.com/Modular-Curriculum/content/react-redux/topics/intro-to-react/assets/react-devtools-props.png
+# waa14-react-props
